@@ -19,7 +19,7 @@ MCTools: https://mctools.mullak99.co.uk/
 ## Credits
 
 Many of these textures contain some (or many) elements from Classic Faithful, Classic Faithful Programmer Art, and Vattic's textures.  
-A breakdown of this can be found in the Credits of the [Main repo](https://github.com/mullak99s-Faithful/mullak99sFaithful/blob/master/Credits.txt).
+A breakdown of this can be found in the [Credits of the main repo](https://github.com/mullak99s-Faithful/mullak99sFaithful/blob/master/Credits.txt).
 
 [Vattic](https://web.archive.org/web/20150607220656/http://www.minecraftforum.net:80/forums/mapping-and-modding/resource-packs/1223254-faithful-32x32-pack-update-red-cat-clay-1-8) for creating the original Faithful 32x.  
 [Classic Faithful](https://github.com/ClassicFaithful) for creating the Classic Faithful packs.  
